@@ -156,7 +156,7 @@
 		<dependency>
 			<groupId>commons-logging</groupId>
 			<artifactId>commons-logging</artifactId>
-			<version>1.1.1</version>
+			<version>1.2</version>
 		</dependency>
 
 		<dependency>
@@ -254,7 +254,7 @@
 					<source>${jdk.version}</source>
 					<target>${jdk.version}</target>
 					<compilerArguments>
-						<verbose />
+						<verbose/>
 					</compilerArguments>
 				</configuration>
 				<dependencies>
