@@ -168,13 +168,13 @@
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-core</artifactId>
-			<version>1.0.13</version>
+			<version>1.1.11</version>
 		</dependency>
 
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-classic</artifactId>
-			<version>1.0.13</version>
+			<version>1.1.11</version>
 		</dependency>
 
 		<dependency>
@@ -254,7 +254,7 @@
 					<source>${jdk.version}</source>
 					<target>${jdk.version}</target>
 					<compilerArguments>
-						<verbose />
+						<verbose/>
 					</compilerArguments>
 				</configuration>
 				<dependencies>
