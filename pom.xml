@@ -180,7 +180,7 @@
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>fastjson</artifactId>
-			<version>1.2.5</version>
+			<version>1.2.83</version>
 		</dependency>
 
 		<dependency>
@@ -254,7 +254,7 @@
 					<source>${jdk.version}</source>
 					<target>${jdk.version}</target>
 					<compilerArguments>
-						<verbose />
+						<verbose/>
 					</compilerArguments>
 				</configuration>
 				<dependencies>
